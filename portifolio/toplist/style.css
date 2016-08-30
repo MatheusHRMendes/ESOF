@@ -1,0 +1,13 @@
+element.style{
+	display: flex;
+}
+.app {
+    display: flex;
+}
+*{
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.description{
+	color: #FAB;
+}
